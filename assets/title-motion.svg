@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 600" role="img" aria-label="黑色交付实验室动态纹理">
+  <rect width="1600" height="600" fill="#151515"/>
+
+  <rect x="420" y="-100" width="96" height="800" fill="#f47a22" opacity="0.9">
+    <animateTransform attributeName="transform" type="translate" from="-700 0" to="1600 0" dur="5.8s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="930" y="-100" width="34" height="800" fill="#fcfbf8" opacity="0.9">
+    <animateTransform attributeName="transform" type="translate" from="480 0" to="-980 0" dur="8.4s" repeatCount="indefinite"/>
+  </rect>
+
+  <g opacity="0.94" fill="#fcfbf8">
+    <rect x="-520" y="92" width="850" height="48" rx="24" transform="rotate(-8 0 0)">
+      <animateTransform attributeName="transform" type="translate" from="-700 0" to="1900 0" dur="7s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="-860" y="418" width="1120" height="34" rx="17" transform="rotate(-8 0 0)">
+      <animateTransform attributeName="transform" type="translate" from="-980 0" to="1700 0" dur="9s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <g fill="none" stroke="#f47a22" stroke-linecap="round">
+    <path d="M-80 476C210 330 420 540 710 370S1220 210 1680 350" stroke-width="42">
+      <animateTransform attributeName="transform" type="translate" values="-120 0; 120 0; -120 0" dur="6s" repeatCount="indefinite"/>
+    </path>
+    <path d="M1180 70l170 0-82 76" stroke-width="16" stroke-linejoin="round">
+      <animateTransform attributeName="transform" type="rotate" values="0 1265 108; 8 1265 108; 0 1265 108" dur="4s" repeatCount="indefinite"/>
+    </path>
+    <circle cx="260" cy="430" r="78" stroke-width="8" stroke-dasharray="18 20">
+      <animateTransform attributeName="transform" type="rotate" from="0 260 430" to="360 260 430" dur="14s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g fill="#fcfbf8" font-family="monospace" font-size="28" letter-spacing="7">
+    <text x="92" y="176">AI / DELIVERY / 01</text>
+    <text x="1080" y="520">CHECK / SHIP / REPEAT</text>
+  </g>
+</svg>

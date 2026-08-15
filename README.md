@@ -8,9 +8,15 @@
 
 曾负责小红书商家赋能业务，全网 4W+ 粉丝，长期研究 AI Agent、短视频营销与跨境电商。
 
+<p align="center">
+  <img src="./assets/title-motion.svg" alt="普通人的 AI 正式交付实验室动态标题" width="100%" />
+</p>
+
 > 普通人的 AI 正式交付实验室
 >
 > AI 给初稿，人来验收，结果才算交付。
+
+<img src="./assets/acceptance-sheet.png" alt="辫子哥哥在验收机器旁检查交付结果" width="720" />
 
 ## 找到我
 
