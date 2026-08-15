@@ -46,9 +46,7 @@
 
 **辫子哥哥** — [小红书](https://www.xiaohongshu.com/user/profile/5c91c2850000000010010c50) · [抖音](https://v.douyin.com/9k7yYufn6yA/) · [知乎](https://www.zhihu.com/people/dong-hao-an)
 
-**我是辫子哥哥** — [微博](https://www.weibo.com/u/6281948662) · 视频号（链接待补）
-
-**GitHub** — [@bianzigege](https://github.com/bianzigege)
+**我是辫子哥哥** — [微博](https://www.weibo.com/u/6281948662)
 
 <details>
   <summary>公众号｜辫子哥哥 · 扫码关注</summary>
