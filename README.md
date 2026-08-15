@@ -42,22 +42,19 @@
   </tr>
 </table>
 
-## Socials
+## 找到我
 
-| 辫子哥哥 | 我是辫子哥哥 |
-| --- | --- |
-| [微信公众号｜辫子哥哥](./assets/wechat-qr.jpg) | [微博｜我是辫子哥哥](https://www.weibo.com/u/6281948662) |
-| [小红书｜辫子哥哥](https://www.xiaohongshu.com/user/profile/5c91c2850000000010010c50) | 视频号｜我是辫子哥哥 |
-| [抖音｜辫子哥哥](https://v.douyin.com/9k7yYufn6yA/) |  |
-| [知乎｜辫子哥哥](https://www.zhihu.com/people/dong-hao-an) |  |
+**辫子哥哥** — [小红书](https://www.xiaohongshu.com/user/profile/5c91c2850000000010010c50) · [抖音](https://v.douyin.com/9k7yYufn6yA/) · [知乎](https://www.zhihu.com/people/dong-hao-an)
 
-**GitHub** · [@bianzigege](https://github.com/bianzigege)
+**我是辫子哥哥** — [微博](https://www.weibo.com/u/6281948662) · 视频号（链接待补）
 
-<p>
-  <a href="./assets/wechat-qr.jpg"><img src="./assets/wechat-qr.jpg" alt="微信公众号「辫子哥哥」二维码" width="132" /></a>
+**GitHub** — [@bianzigege](https://github.com/bianzigege)
+
+<details>
+  <summary>公众号｜辫子哥哥 · 扫码关注</summary>
   <br />
-  <sub>微信公众号｜辫子哥哥 · 扫码关注</sub>
-</p>
+  <img src="./assets/wechat-qr.jpg" alt="微信公众号「辫子哥哥」二维码" width="160" />
+</details>
 
 <p>
   <img src="./assets/footer-editorial.svg" alt="MAKE IT USEFUL." width="100%" />
