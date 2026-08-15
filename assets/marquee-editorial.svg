@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 112" role="img" aria-label="AI Agent、电商增长、品牌出海、短视频营销">
+  <rect width="1600" height="112" fill="#000000"/>
+  <g fill="#ffffff" font-family="monospace" font-size="28" letter-spacing="5">
+    <text y="70">
+      AI AGENT  /  电商增长  /  品牌出海  /  短视频营销  /  AI AGENT  /  电商增长  /  品牌出海  /  短视频营销
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-660 0" dur="30s" repeatCount="indefinite"/>
+    </text>
+  </g>
+</svg>

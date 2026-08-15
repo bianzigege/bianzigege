@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 360" role="img" aria-label="普通人的 AI 正式交付实验室">
+  <rect width="1600" height="360" fill="#0a0a0a"/>
+  <g fill="#ffffff" font-family="monospace" font-size="22" letter-spacing="5">
+    <text x="80" y="72">普通人的 AI 正式交付实验室</text>
+    <text x="80" y="310">AI 初稿  /  人来验收  /  结果才算交付</text>
+  </g>
+  <text x="80" y="220" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="76" font-weight="700" letter-spacing="-4">MAKE IT USEFUL.</text>
+  <line x1="80" y1="104" x2="1520" y2="104" stroke="#ffffff" stroke-opacity="0.18"/>
+</svg>

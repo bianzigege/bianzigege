@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 760" role="img" aria-label="董浩安，AI Agent、电商增长、品牌出海实践">
+  <rect width="1600" height="760" fill="#ffffff"/>
+  <g fill="#525252" font-family="monospace" font-size="24" letter-spacing="6">
+    <text x="80" y="76">BIANZIGEGE / ROCKY / 2026</text>
+    <text x="80" y="690">A PRACTICE IN MAKING AI USEFUL</text>
+  </g>
+  <line x1="80" y1="112" x2="1520" y2="112" stroke="#000000" stroke-opacity="0.16"/>
+  <g fill="#000000" font-family="Inter, Arial, sans-serif" font-weight="700" letter-spacing="-8">
+    <text x="80" y="342" font-size="170">AI AGENT</text>
+    <text x="80" y="520" font-size="150">电商增长 × 出海</text>
+  </g>
+  <g fill="none" stroke="#000000" stroke-width="2">
+    <rect x="1300" y="164" width="176" height="176"/>
+    <path d="M1340 252h96M1388 204v96"/>
+  </g>
+  <text x="1370" y="148" fill="#000000" font-family="monospace" font-size="22" letter-spacing="4">01</text>
+</svg>
