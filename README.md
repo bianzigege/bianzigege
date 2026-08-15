@@ -46,12 +46,18 @@
 
 | 辫子哥哥 | 我是辫子哥哥 |
 | --- | --- |
-| 微信公众号｜辫子哥哥 | 微博｜我是辫子哥哥 |
-| 小红书｜辫子哥哥 | 视频号｜我是辫子哥哥 |
-| 抖音｜辫子哥哥 |  |
-| 知乎｜辫子哥哥 |  |
+| [微信公众号｜辫子哥哥](./assets/wechat-qr.jpg) | [微博｜我是辫子哥哥](https://www.weibo.com/u/6281948662) |
+| [小红书｜辫子哥哥](https://www.xiaohongshu.com/user/profile/5c91c2850000000010010c50) | 视频号｜我是辫子哥哥 |
+| [抖音｜辫子哥哥](https://www.douyin.com/user/self?from_tab_name=main) |  |
+| [知乎｜辫子哥哥](https://www.zhihu.com/people/dong-hao-an) |  |
 
 **GitHub** · [@bianzigege](https://github.com/bianzigege)
+
+<p>
+  <a href="./assets/wechat-qr.jpg"><img src="./assets/wechat-qr.jpg" alt="微信公众号「辫子哥哥」二维码" width="132" /></a>
+  <br />
+  <sub>微信公众号｜辫子哥哥 · 扫码关注</sub>
+</p>
 
 <p>
   <img src="./assets/footer-editorial.svg" alt="MAKE IT USEFUL." width="100%" />
