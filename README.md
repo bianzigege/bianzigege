@@ -48,7 +48,7 @@
 | --- | --- |
 | [微信公众号｜辫子哥哥](./assets/wechat-qr.jpg) | [微博｜我是辫子哥哥](https://www.weibo.com/u/6281948662) |
 | [小红书｜辫子哥哥](https://www.xiaohongshu.com/user/profile/5c91c2850000000010010c50) | 视频号｜我是辫子哥哥 |
-| [抖音｜辫子哥哥](https://www.douyin.com/user/self?from_tab_name=main) |  |
+| [抖音｜辫子哥哥](https://v.douyin.com/9k7yYufn6yA/) |  |
 | [知乎｜辫子哥哥](https://www.zhihu.com/people/dong-hao-an) |  |
 
 **GitHub** · [@bianzigege](https://github.com/bianzigege)
