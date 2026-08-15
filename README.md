@@ -1,14 +1,6 @@
-<p align="right"><sub>BIANZIGEGE / ROCKY / 2026</sub></p>
-
 <p>
-  <img src="./assets/hero-editorial.svg" alt="董浩安，AI Agent、电商增长、品牌出海实践" width="100%" />
+  <img src="./assets/hero-editorial.svg" alt="走向新时代。" width="100%" />
 </p>
-
-# 董浩安（辫子哥哥 Rocky）
-
-**AI Agent × 电商增长 × 品牌出海实践**
-
-用 AI 重构电商内容生产与商业增长链路。曾负责小红书商家赋能业务，全网 4W+ 粉丝，长期研究 AI Agent、短视频营销与跨境电商。
 
 <p>
   <img src="./assets/marquee-editorial.svg" alt="AI Agent、电商增长、品牌出海、短视频营销" width="100%" />
@@ -21,7 +13,6 @@
     <td width="64%" valign="top">
       <p><strong>普通人的 AI 正式交付实验室</strong></p>
       <p>我关注的不是“最强工具”，而是一件真实的事情，如何从模糊需求走到可以验收的结果。</p>
-      <p><code>AI 给初稿 · 人来验收 · 结果才算交付</code></p>
     </td>
     <td width="36%" align="right" valign="top">
       <img src="./assets/avatar-grayscale.jpg" alt="辫子哥哥黑白手绘头像" width="220" />
@@ -63,5 +54,5 @@
 **GitHub** · [@bianzigege](https://github.com/bianzigege)
 
 <p>
-  <img src="./assets/footer-editorial.svg" alt="普通人的 AI 正式交付实验室" width="100%" />
+  <img src="./assets/footer-editorial.svg" alt="MAKE IT USEFUL." width="100%" />
 </p>
