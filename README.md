@@ -1,16 +1,30 @@
-## Hi there 👋
+# 董浩安（辫子哥哥 Rocky）
 
-<!--
-**bianzigege/bianzigege** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./assets/bianzi-avatar.jpg" width="160" alt="辫子哥哥" />
 
-Here are some ideas to get you started:
+## AI Agent × 电商增长 × 品牌出海实践
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+用 AI 重构电商内容生产与商业增长链路。
+
+曾负责小红书商家赋能业务，全网 4W+ 粉丝，长期研究 AI Agent、短视频营销与跨境电商。
+
+> 普通人的 AI 正式交付实验室
+>
+> AI 给初稿，人来验收，结果才算交付。
+
+## 找到我
+
+| 辫子哥哥 | 我是辫子哥哥 |
+| --- | --- |
+| 微信公众号｜辫子哥哥 | 微博｜我是辫子哥哥 |
+| 小红书｜辫子哥哥 | 视频号｜我是辫子哥哥 |
+| 抖音｜辫子哥哥 |  |
+| 知乎｜辫子哥哥 |  |
+
+### GitHub
+
+[@bianzigege](https://github.com/bianzigege)
+
+---
+
+AI 给初稿 · 人来验收 · 结果才算交付
